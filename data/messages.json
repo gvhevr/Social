@@ -1,0 +1,37 @@
+[
+  {
+    "id": "m1",
+    "senderId": "u2",
+    "receiverId": "u1",
+    "text": "Hey Alex — want to pair on the design tokens doc?",
+    "createdAt": "2025-03-24T15:00:00.000Z"
+  },
+  {
+    "id": "m2",
+    "senderId": "u1",
+    "receiverId": "u2",
+    "text": "Yes! Tomorrow afternoon works.",
+    "createdAt": "2025-03-24T15:12:00.000Z"
+  },
+  {
+    "id": "m3",
+    "senderId": "u3",
+    "receiverId": "u1",
+    "text": "Sending the album from Lisbon trip 📷",
+    "createdAt": "2025-03-23T12:00:00.000Z"
+  },
+  {
+    "id": "m4",
+    "senderId": "u1",
+    "receiverId": "u4",
+    "text": "Loved your latest newsletter issue.",
+    "createdAt": "2025-03-22T09:00:00.000Z"
+  },
+  {
+    "id": "m5",
+    "senderId": "u4",
+    "receiverId": "u1",
+    "text": "Thank you! Means a lot.",
+    "createdAt": "2025-03-22T09:30:00.000Z"
+  }
+]

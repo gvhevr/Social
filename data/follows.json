@@ -1,0 +1,11 @@
+[
+  { "followerId": "u1", "followingId": "u2" },
+  { "followerId": "u1", "followingId": "u3" },
+  { "followerId": "u1", "followingId": "u4" },
+  { "followerId": "u1", "followingId": "u5" },
+  { "followerId": "u2", "followingId": "u1" },
+  { "followerId": "u2", "followingId": "u3" },
+  { "followerId": "u3", "followingId": "u1" },
+  { "followerId": "u4", "followingId": "u2" },
+  { "followerId": "u5", "followingId": "u1" }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "u1",
+    "username": "alexriver",
+    "email": "alex@example.com",
+    "password": "demo123",
+    "bio": "Product designer · Coffee · Film cameras",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=alex"
+  },
+  {
+    "id": "u2",
+    "username": "samcodes",
+    "email": "sam@example.com",
+    "password": "demo123",
+    "bio": "Full-stack dev · Open source",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=sam"
+  },
+  {
+    "id": "u3",
+    "username": "morganlee",
+    "email": "morgan@example.com",
+    "password": "demo123",
+    "bio": "Photography · Travel",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=morgan"
+  },
+  {
+    "id": "u4",
+    "username": "jordanwrites",
+    "email": "jordan@example.com",
+    "password": "demo123",
+    "bio": "Writer · Newsletter weekly",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=jordan"
+  },
+  {
+    "id": "u5",
+    "username": "rileymusic",
+    "email": "riley@example.com",
+    "password": "demo123",
+    "bio": "Producer · Synths",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=riley"
+  }
+]

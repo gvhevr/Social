@@ -1,0 +1,56 @@
+[
+  {
+    "id": "p1",
+    "authorId": "u2",
+    "content": "Shipped a new dashboard for our design system. Dark mode was the fun part.",
+    "image": "https://picsum.photos/seed/post1/800/520",
+    "likes": ["u1", "u3"],
+    "commentsCount": 2,
+    "createdAt": "2025-03-20T16:00:00.000Z"
+  },
+  {
+    "id": "p2",
+    "authorId": "u3",
+    "content": "Golden hour in Lisbon — no filter needed.",
+    "image": "https://picsum.photos/seed/post2/800/600",
+    "likes": ["u1", "u2", "u4"],
+    "commentsCount": 1,
+    "createdAt": "2025-03-21T09:15:00.000Z"
+  },
+  {
+    "id": "p3",
+    "authorId": "u4",
+    "content": "This week’s essay: small habits beat big resolutions. Link in bio.",
+    "image": null,
+    "likes": ["u2"],
+    "commentsCount": 0,
+    "createdAt": "2025-03-22T11:45:00.000Z"
+  },
+  {
+    "id": "p4",
+    "authorId": "u5",
+    "content": "Studio session until 2am. Worth it.",
+    "image": "https://picsum.photos/seed/post4/800/480",
+    "likes": ["u1", "u3", "u5"],
+    "commentsCount": 1,
+    "createdAt": "2025-03-23T18:30:00.000Z"
+  },
+  {
+    "id": "p5",
+    "authorId": "u1",
+    "content": "Redesigned our onboarding flow — 40% faster completion in tests.",
+    "image": "https://picsum.photos/seed/post5/800/540",
+    "likes": ["u2", "u4"],
+    "commentsCount": 0,
+    "createdAt": "2025-03-24T08:00:00.000Z"
+  },
+  {
+    "id": "p6",
+    "authorId": "u2",
+    "content": "Tip: use semantic tokens for spacing, not raw pixels. Future you will thank you.",
+    "image": null,
+    "likes": ["u1"],
+    "commentsCount": 0,
+    "createdAt": "2025-03-25T13:20:00.000Z"
+  }
+]
